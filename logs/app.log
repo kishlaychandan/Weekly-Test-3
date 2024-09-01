@@ -1,0 +1,31 @@
+2024-09-01T09:17:06.894Z info: Received a GET request for /
+2024-09-01T09:18:34.800Z info: Received a GET request for /register-user
+2024-09-01T09:18:43.962Z info: Received a POST request for /register-user
+2024-09-01T09:18:43.964Z info: Validating first name and last name
+2024-09-01T09:18:43.964Z info: Validating email address
+2024-09-01T09:18:43.965Z info: validating password
+2024-09-01T09:18:43.967Z info: Validating phone number
+2024-09-01T09:18:43.967Z info: Register user is invoked
+2024-09-01T09:19:09.103Z info: Received a POST request for /register-user
+2024-09-01T09:19:09.104Z info: Validating first name and last name
+2024-09-01T09:19:09.105Z error: Invalid first name. The first letter must be capitalized.
+2024-09-01T09:19:31.708Z info: Received a POST request for /register-user
+2024-09-01T09:19:31.711Z info: Validating first name and last name
+2024-09-01T09:19:31.713Z info: Validating email address
+2024-09-01T09:19:31.715Z error: Invalid email address. Email must contain '@' and a valid domain.
+2024-09-01T09:19:54.414Z info: Received a POST request for /register-user
+2024-09-01T09:19:54.415Z info: Validating first name and last name
+2024-09-01T09:19:54.416Z info: Validating email address
+2024-09-01T09:19:54.417Z info: validating password
+2024-09-01T09:20:18.019Z info: Received a POST request for /register-user
+2024-09-01T09:20:18.020Z info: Validating first name and last name
+2024-09-01T09:20:18.021Z info: Validating email address
+2024-09-01T09:20:18.022Z info: validating password
+2024-09-01T09:20:18.023Z info: Validating phone number
+2024-09-01T09:20:18.024Z error: Invalid phone number. Must be at least 10 digits long.
+2024-09-01T09:20:51.476Z info: Received a POST request for /register-user
+2024-09-01T09:20:51.478Z info: Validating first name and last name
+2024-09-01T09:20:51.478Z info: Validating email address
+2024-09-01T09:20:51.479Z info: validating password
+2024-09-01T09:20:51.480Z info: Validating phone number
+2024-09-01T09:20:51.481Z info: Register user is invoked
